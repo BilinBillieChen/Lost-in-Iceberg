@@ -1,1 +1,5 @@
-# Lost-in-Iceberg
+In this work, triangles with dynamic changes in position and color occupy less than one-fifth of the composition, yet they command attention. The remaining four-fifths consist of a dark area designed for audience interaction, which transforms based on their movements. The small, vibrant, and dynamic section is striking and eye-catching, while the larger space, subdued in shades of gray, seems to amplify the presence of the smaller area despite its dominance in size.
+
+This visual contrast creates a compelling tension—a separation that hints at unity, or perhaps a fragmented reunion. The work explores themes of power, loss, value, and uncertainty. Is the uncontrollable vibrancy of the small, randomly changing section more beautiful, or does the interactive subtlety of the larger, muted background hold greater appeal? And without the expansive dark space, can the small, colorful area still exist meaningfully on its own?
+
+Through this piece, I aim to provoke thought about the dialectical relationship between artificial intelligence and natural human existence, encouraging reflection on how these two realms coexist and influence one another.# Lost-in-Iceberg
